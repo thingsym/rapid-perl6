@@ -57,3 +57,19 @@ OR
 * [Perl 6](http://perl6.org)
 * [Perl 6 Documentation](http://doc.perl6.org)
 * [Rakudo Perl 6](http://rakudo.org)
+
+## Contribution
+
+### Patches and Bug Fixes
+
+Small patches and bug reports can be submitted a issue tracker in Github. Forking on Github is another good way. You can send a pull request.
+
+1. Fork [Rapid Perl6](https://github.com/thingsym/rapid-perl6) from GitHub repository
+2. Create a feature branch: git checkout -b my-new-feature
+3. Commit your changes: git commit -am 'Add some feature'
+4. Push to the branch: git push origin my-new-feature
+5. Create new Pull Request
+
+## License
+
+distributed under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html).
